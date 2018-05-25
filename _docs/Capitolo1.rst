@@ -54,7 +54,7 @@ zona d) Informazioni sul pagamento
 zona e) Zona tecnica per i pagamenti presso Banche e altri canali
 
 zona f) Zona tecnica per i pagamenti presso Poste Italiane (da utilizzare
-   obbligatoriamente nel caso in cui l’EC disponga di un conto postale)
+obbligatoriamente nel caso in cui l’EC disponga di un conto postale)
 
 Il modello, fornito in formato aperto (PDF), è auto esplicativo nel
 senso che fornisce in modo esauriente e univoco tutti i dati utili alla
