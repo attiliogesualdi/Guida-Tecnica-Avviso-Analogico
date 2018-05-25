@@ -51,8 +51,8 @@ Definizioni e Acronimi
 |                                                       |     di pubblici servizi”.         |
 +-------------------------------------------------------+-----------------------------------+
 | NodoSPC                                               |     Piattaforma tecnologica per   |
-|                                                       |     l’interconnessione e          |
-| Nodo dei Pagamenti-SPC                                |     l’interoperabilità tra le     |
+| Nodo dei Pagamenti-SPC                                |     l’interconnessione e          |
+|                                                       |     l’interoperabilità tra le     |
 |                                                       |     Pubbliche Amministrazioni e i |
 |                                                       |     Prestatori di Servizi di      |
 |                                                       |     Pagamento di cui all’art. 5,  |
