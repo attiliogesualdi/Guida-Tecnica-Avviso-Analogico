@@ -31,29 +31,29 @@ suddivisa in sei zone orizzontali, ognuna delle quali destinata a
 fornire all'utilizzatore finale le informazioni specifiche elencate di
 seguito:
 
-a. Testata:
+zona a) Testata:
 
-   -  Logo pagoPA
+-  Logo pagoPA
 
-   -  Logo EC
+-  Logo EC
 
-b. Oggetto del pagamento
+zona b) Oggetto del pagamento
 
-c. Soggetti interessati dal pagamento
+zona c) Soggetti interessati dal pagamento
 
-   -  Ente creditore beneficiario
+-  Ente creditore beneficiario
 
-   -  Destinatario dell’avviso (soggetto Pagatore)
+-  Destinatario dell’avviso (soggetto Pagatore)
 
-d. Informazioni sul pagamento
+zona d) Informazioni sul pagamento
 
-   -  Quanto e quando pagare
+-  Quanto e quando pagare
 
-   -  Dove pagare
+-  Dove pagare
 
-e. Zona tecnica per i pagamenti presso Banche e altri canali
+zona e) Zona tecnica per i pagamenti presso Banche e altri canali
 
-f. Zona tecnica per i pagamenti presso Poste Italiane (da utilizzare
+zona f) Zona tecnica per i pagamenti presso Poste Italiane (da utilizzare
    obbligatoriamente nel caso in cui l’EC disponga di un conto postale)
 
 Il modello, fornito in formato aperto (PDF), è auto esplicativo nel
