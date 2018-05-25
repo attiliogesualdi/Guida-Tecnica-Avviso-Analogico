@@ -4,9 +4,9 @@
 +--------------------------------------------------------+
 | **L’Avviso di pagamento analogico nel sistema pagoPA** |
 |                                                        |
-|     *Guida Tecnica*                                    |
+| *Guida Tecnica*                                        |
 |                                                        |
-| ***Versione*** ***2.1 -*** ***maggio 2018***           |
+| **Versione** **2.1 -** **maggio 2018**                 |
 +--------------------------------------------------------+
 
 
