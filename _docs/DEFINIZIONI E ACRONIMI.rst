@@ -13,28 +13,28 @@ Definizioni e Acronimi
 ======================
 
 +-------------------------------------------------------+-----------------------------------+
-| **Definizione / Acronimo**                            | **Descrizione**                   |
+| **Definizione/Acronimo**                              | **Descrizione**                   |
 +-------------------------------------------------------+-----------------------------------+
-|     AgID                                              |     Ente istituito ai sensi del   |
+| AgID                                                  |     Ente istituito ai sensi del   |
 |                                                       |     decreto legge n. 83 del 22    |
-|     Agenzia per l’Italia Digitale                     |     giugno 2012 convertito con    |
+| Agenzia per l’Italia Digitale                         |     giugno 2012 convertito con    |
 |                                                       |     legge n. 134 del 7 agosto     |
 |                                                       |     2012 (già DigitPA).           |
 |                                                       |                                   |
 |                                                       |     Gestore del Nodo dei          |
 |                                                       |     Pagamenti-SPC.                |
 +-------------------------------------------------------+-----------------------------------+
-|     CAD                                               |     Codice dell'amministrazione   |
+| CAD                                                   |     Codice dell'amministrazione   |
 |                                                       |     digitale: decreto legislativo |
 |                                                       |     7 marzo 2005, n. 82           |
 |                                                       |     aggiornato con le modifiche e |
 |                                                       |     integrazioni successivamente  |
 |                                                       |     introdotte.                   |
 +-------------------------------------------------------+-----------------------------------+
-|     Codice interbancario                              |     Codice che il Consorzio CBI   |
+| Codice interbancario                                  |     Codice che il Consorzio CBI   |
 |                                                       |     assegna all’Ente Creditore.   |
 +-------------------------------------------------------+-----------------------------------+
-|     Consorzio CBI                                     |     Il "Consorzio Customer to     |
+| Consorzio CBI                                         |     Il "Consorzio Customer to     |
 |                                                       |     Business Interaction - CBI"   |
 |                                                       |     organizzazione interbancaria  |
 |                                                       |     creata nel 2008 in            |
@@ -44,24 +44,24 @@ Definizioni e Acronimi
 |                                                       |     Interbancario (ACBI), nata    |
 |                                                       |     nel 2001.                     |
 +-------------------------------------------------------+-----------------------------------+
-|     Linee guida                                       |     Il documento “Linee guida per |
+| Linee guida                                           |     Il documento “Linee guida per |
 |                                                       |     l'effettuazione dei pagamenti |
 |                                                       |     a favore delle pubbliche      |
 |                                                       |     amministrazioni e dei gestori |
 |                                                       |     di pubblici servizi”.         |
 +-------------------------------------------------------+-----------------------------------+
-|     NodoSPC                                           |     Piattaforma tecnologica per   |
+| NodoSPC                                               |     Piattaforma tecnologica per   |
 |                                                       |     l’interconnessione e          |
-|     Nodo dei Pagamenti-SPC                            |     l’interoperabilità tra le     |
+| Nodo dei Pagamenti-SPC                                |     l’interoperabilità tra le     |
 |                                                       |     Pubbliche Amministrazioni e i |
 |                                                       |     Prestatori di Servizi di      |
 |                                                       |     Pagamento di cui all’art. 5,  |
 |                                                       |     comma 2 del CAD.              |
 +-------------------------------------------------------+-----------------------------------+
-|     PSP                                               |     Prestatore di Servizi di      |
+| PSP                                                   |     Prestatore di Servizi di      |
 |                                                       |     Pagamento.                    |
 +-------------------------------------------------------+-----------------------------------+
-|     Ricevuta Telematica                               |     Oggetto informatico inviato   |
+| Ricevuta Telematica                                   |     Oggetto informatico inviato   |
 |                                                       |     dal PSP all’ente creditore    |
 |                                                       |     attraverso il Nodo dei        |
 |                                                       |     Pagamenti-SPC in risposta ad  |
@@ -69,20 +69,20 @@ Definizioni e Acronimi
 |                                                       |     Telematico effettuata da un   |
 |                                                       |     ente creditore.               |
 +-------------------------------------------------------+-----------------------------------+
-|     Richiesta di Pagamento                            |     Oggetto informatico inviato   |
-|     Telematico                                        |     dall’ente creditore al PSP    |
+| Richiesta di Pagamento                                |     Oggetto informatico inviato   |
+| Telematico                                            |     dall’ente creditore al PSP    |
 |                                                       |     attraverso il Nodo dei        |
 |                                                       |     Pagamenti-SPC al fine di      |
 |                                                       |     richiedere l’esecuzione di un |
 |                                                       |     pagamento.                    |
 +-------------------------------------------------------+-----------------------------------+
-|     SANP                                              |     Specifiche attuative del Nodo |
+| SANP                                                  |     Specifiche attuative del Nodo |
 |                                                       |     dei Pagamenti-SPC, Allegato B |
 |                                                       |     alle Linee guida.             |
 +-------------------------------------------------------+-----------------------------------+
-|     EC                                                |     Ente Creditore                |
+| EC                                                    |     Ente Creditore                |
 +-------------------------------------------------------+-----------------------------------+
-|     Utilizzatore finale                               |     Cittadini, figure             |
+| Utilizzatore finale                                   |     Cittadini, figure             |
 |                                                       |     professionali o imprese,      |
 |                                                       |     nonché pubbliche              |
 |                                                       |     amministrazioni che           |
