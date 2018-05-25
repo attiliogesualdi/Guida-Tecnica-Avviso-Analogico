@@ -8,7 +8,7 @@
 |                                                        |
 +--------------------------------------------------------+
 
-|Allegato1|
+|Allegato1.pdf|
 
 .. |Allegato 1 Modello di avviso di pagamento v2.1| image:: media/Allegato1.pdf
    :width: 5.90551in
