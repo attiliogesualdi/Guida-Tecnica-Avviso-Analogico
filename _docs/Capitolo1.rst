@@ -13,7 +13,7 @@
 1. istruzioni per la produzione
 ===============================
 
-`In Allegato 1 - (Modello di avviso in formato PDF) <https://www.agid.gov.it/sites/default/files/repository_files/guidatecnica_avvisoanalogico_v2.1_con_alleg.pdf>`_ è fornito il
+`In Allegato 1 - (Modello di avviso in formato PDF) <attAllegato%201%20Modello%20di%20avviso%20di%20pagamento%20v2.1att.pdf>`_ è fornito il
 modello di avviso di pagamento utilizzabile sia per il pagamento in
 unica soluzione sia per il pagamento dello stesso importo frazionato in
 rate. Ogni pagina del modello è completamente riproducibile in un foglio
