@@ -114,8 +114,8 @@ immagini o etichette segnaposto come da esempi in figura:
 
 In entrambi i casi gli oggetti segnaposto, specifici del singolo avviso,
 sono identificati nel modello da un nome univoco compreso fra parentesi
-angolari in modo tale da essere referenziati nell’Allegato 2 (Specifiche
-Tecniche) con il quale vengono integrate le indicazioni mancanti per la
+angolari in modo tale da essere referenziati `nell’Allegato 2 (Specifiche Tecniche) <Allegato_2_Specifiche_Tecniche_v2.1.PDF>`_ 
+con il quale vengono integrate le indicazioni mancanti per la
 stampa dell’avviso.
 
 Per quanto riguarda i contenuti mostrati dagli oggetti testuali si
@@ -128,8 +128,7 @@ riconoscono le seguenti tipologie:
 
    -  **A scelta multipla**: il cui contenuto è impostato dall’EC che
       però è vincolato a scegliere da un set di alternative definite da
-      AgID e non modificabili (vedi ad esempio <pagamento_rateale>
-      nell’Allegato2)
+      AgID e non modificabili (`vedi ad esempio <pagamento_rateale> nell’Allegato2 - (Specifiche Tecniche) <Allegato_2_Specifiche_Tecniche_v2.1.PDF>`_)
 
    -  **A testo libero**: il cui contenuto è impostato liberamente
       dall’EC, purché la lunghezza non ecceda il numero di caratteri
