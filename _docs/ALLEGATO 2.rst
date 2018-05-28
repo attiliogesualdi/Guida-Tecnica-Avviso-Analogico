@@ -4,11 +4,11 @@
 +--------------------------------------------------------+
 | **Allegato 2**                                         |
 |                                                        |
-| *Modello di Avviso di pagamento*                       |
+| *Specifiche Tecniche*                                  |
 |                                                        |
 +--------------------------------------------------------+
 
-bla bla bla.pdf
+`Allegato 2 - Specifiche Tecniche <https://www.agid.gov.it/sites/default/files/repository_files/guidatecnica_avvisoanalogico_v2.1_con_alleg.pdf>`_
 
 
 .. |AGID_logo_carta_intestata-02.png| image:: media/header.png
