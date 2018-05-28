@@ -156,7 +156,6 @@ integrato nel nuovo “Avviso di pagamento analogico nel sistema PagoPA”
 (vedi Zona tecnica per i pagamenti presso Poste Italiane) sarà
 comunicata dalle stesse Poste Italiane.
 
-FINE DOCUMENTO
 
 .. |AGID_logo_carta_intestata-02.png| image:: media/header.png
    :width: 5.90551in
